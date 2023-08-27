@@ -25,3 +25,7 @@ In fact, many companies organize programming tests for their interviewees in pse
 You can get quality code from many platforms online, but you have to learn problem solving and practice it a lot.
 
 Planning computer algorithms with pseudocode makes you meticulous. It helps you explain exactly what each line in a software program should do. This is possible because you are in full control of everything, which is one of the great features of pseudocode.
+
+## Examples
+
+![App Screenshot](/images/1.png)
