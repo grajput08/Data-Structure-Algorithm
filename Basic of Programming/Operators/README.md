@@ -14,7 +14,7 @@ Operators are symbols that perform operations on variables and values. For examp
 
 Arithmetic operators are used to perform arithmetic operations on variables and data.
 
-```C+
+```C++
 #include <iostream>
 using namespace std;
 
@@ -65,7 +65,7 @@ a = 5;
 
 A relational operator is used to check the relationship between two operands. For example,
 
-```C+
+```C++
 #include <iostream>
 using namespace std;
 
