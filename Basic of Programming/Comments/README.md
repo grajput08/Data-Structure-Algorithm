@@ -10,7 +10,7 @@ There are two ways to add comments to code:
 
 ## Single Line Comments
 
-Any line that starts with // is a comment. For example,
+Any line that starts with **//** is a comment. For example,
 
 ```C++
 // declaring a variable
@@ -22,7 +22,7 @@ a = 2;
 
 ## Multi-line Comments
 
-Any line between /_ and _/ is also a comment. For example,
+Any line between **/\*** and **\*/** is also a comment. For example,
 
 ```C++
 /* declaring a variable
