@@ -16,7 +16,7 @@ The table below shows the fundamental data types, their meaning, and their sizes
 
 ## Example
 
-```bash
+```C++
 #include<iostream>
 using namespace std;
 
