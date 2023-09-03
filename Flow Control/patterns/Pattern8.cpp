@@ -1,6 +1,6 @@
 /*
 
-Pattern 7: Print a numeric inverted  half pyramid pattern
+Pattern 8: Print a numeric inverted  half pyramid pattern
 
 1 2 3 4 5
 1 2 3 4

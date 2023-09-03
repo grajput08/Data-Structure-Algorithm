@@ -1,6 +1,6 @@
 /*
 
-Pattern 7: Print a alphabet inverted  half pyramid pattern
+Pattern 10: Print a alphabet inverted  half pyramid pattern
 
 A B C D E
 A B C D
@@ -15,7 +15,8 @@ Rules:
 2. write down for rows and conditions: num-row
 
     condition:
-        cout<< col + 1 << " ";
+            char ch = col + 'A';
+            cout << ch << " ";
 
 */
 
