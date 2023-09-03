@@ -8,7 +8,7 @@ There are 3 types of loops in C++.
 - while loop
 - do...while loop
 
-## for loop
+## for loop :
 
 The syntax of the for loop is:
 
