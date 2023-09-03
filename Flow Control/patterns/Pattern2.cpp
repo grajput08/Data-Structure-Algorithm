@@ -7,6 +7,14 @@ Pattern 2: Print a Rectangle pattern of asterisks
 *******
 *******
 
+Length = 6
+Breadth = 5
+
+Rules:
+1. find number of rows -> Lenght (Outer loop )
+2. write down for rows and conditions: Breadth (Inner loop )
+
+
 */
 
 #include <iostream>
