@@ -473,3 +473,53 @@ Rules:
                     }
 
 ```
+
+### [Pattern 15: Print a butterfly pattern ](https://github.com/grajput08/Data-Structure-Algorithm/blob/main/Flow%20Control/patterns/Pattern15.cpp)
+
+```c++
+
+*        *
+**      **
+***    ***
+****  ****
+**********
+**********
+****  ****
+***    ***
+**      **
+*        *
+
+
+num = 5
+
+```
+
+### [Pattern 16: Print Floyd's triangle](https://github.com/grajput08/Data-Structure-Algorithm/blob/main/Flow%20Control/patterns/Pattern16.cpp)
+
+```c++
+1
+2 3
+4 5 6
+7 8 9 10
+11 12 13 14 15
+
+num = 5
+```
+
+### [Pattern 17: Print palindrome pyramid pattern using numbers](https://github.com/grajput08/Data-Structure-Algorithm/blob/main/Flow%20Control/patterns/Pattern17.cpp)
+
+```c++
+
+*******1********
+
+*******2*2*******
+
+******3*3*3******
+
+*****4*4*4*4*****
+
+****5*5*5*5*5****
+
+num = 5
+
+```
